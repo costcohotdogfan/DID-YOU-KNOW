@@ -1,0 +1,10 @@
+# media stays on BEAST, not in git
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.zip
+__pycache__/

@@ -1,0 +1,31 @@
+{
+  "title": "THE POOL ROUTE",
+  "card": "HIDDEN MISSION",
+  "narration": "audio/narration.mp3",
+  "ennui_full_at": 45.2,
+  "segments": [
+    {"at": 0.00,  "clip": "clips/hedgefront.mp4",   "ss": 0.0},
+    {"at": 3.44,  "clip": "clips/partywalk.mp4",    "ss": 0.0},
+    {"at": 6.60,  "clip": "clips/sip.mp4",          "ss": 0.0},
+    {"at": 9.23,  "clip": "clips/hedgejog.mp4",     "ss": 0.5},
+    {"at": 11.03, "clip": "clips/dive.mp4",         "ss": 1.0},
+    {"at": 11.53, "clip": "clips/downsdrink.mp4",   "ss": 1.0},
+    {"at": 12.03, "clip": "clips/swimacross.mp4",   "ss": 0.3},
+    {"at": 12.53, "clip": "clips/sip.mp4",          "ss": 3.2},
+    {"at": 13.03, "clip": "clips/swimacross.mp4",   "ss": 1.5},
+    {"at": 15.88, "clip": "clips/woman0.mp4",       "ss": 0.3},
+    {"at": 19.45, "clip": "clips/mansingle.mp4",    "ss": 1.5},
+    {"at": 21.57, "clip": "clips/tiredswim.mp4",    "ss": 0.0},
+    {"at": 24.50, "clip": "clips/shiver.mp4",       "ss": 0.5},
+    {"at": 26.60, "clip": "clips/orbitA0.mp4",      "ss": 1.0},
+    {"at": 29.50, "clip": "clips/orbitB1.mp4",      "ss": 0.0},
+    {"at": 31.70, "clip": "clips/olddarkwalk.mp4",  "ss": 0.5},
+    {"at": 35.00, "clip": "clips/oldpullback.mp4",  "ss": 0.8},
+    {"at": 38.84, "clip": "clips/oldbowed.mp4",     "ss": 0.8},
+    {"at": 41.73, "clip": "clips/olddarkstand.mp4", "ss": 0.5},
+    {"at": 43.50, "clip": "clips/oldlocked.mp4",    "ss": 0.8},
+    {"at": 44.15, "still": "v2/beat6b_emptyroom.png"},
+    {"at": 45.16, "clip": "clips/orbitB1.mp4",      "ss": 2.6},
+    {"at": 47.77, "clip": "clips/partywalk.mp4",    "ss": 3.6}
+  ]
+}
