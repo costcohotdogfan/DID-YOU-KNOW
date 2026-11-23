@@ -6,11 +6,10 @@ House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited ex
 
 ## State (2026-11-22)
 
-- **Episode 01, The Pool Route:** cut v1 exists (`poolroute_cut_v1.mp4`, 1080x1920, 48.8 s). Not yet reviewed by Jamie against the voiceover. Not published.
+- **Episode 01, The Pool Route:** published, per Jamie on 2026-11-22. Which cut, which platforms and how it performed are not recorded here yet.
 - **Episode 02, The Weekend in the City:** script locked (phony cut), shot list written, narration generated. No stills.
-- Everything else is a script or a premise. See `docs/backlog.md`.
-
-Nothing in this repo has been posted anywhere. One published episode decides whether the format earns more.
+- **Nine more scripts** are rewritten in the house voice and ready to produce: `docs/scripts.md`. Jamie picks the next one.
+- Everything else is a premise. See `docs/backlog.md`.
 
 ## Where things are
 
@@ -20,7 +19,8 @@ Nothing in this repo has been posted anywhere. One published episode decides whe
 | Midjourney moodboard | "GTA VI", code `--p m7522496490742050258` |
 | Narrator voice | ElevenLabs "Marcus", voice id `y0s2ExEMuum3muUnA6Zd`, model `eleven_v4` |
 | ElevenLabs flow with all takes | flow id `9eDcpVFUonoeSINbsbkk` |
-| Full idea bank (about 30 premises, 12 scripts) | Claude doc "DID YOU KNOW?! — Things You Missed in GTA VI". Export it as Markdown into `docs/ideas-full.md`; it is not in this repo yet. |
+| Current scripts | `docs/scripts.md` |
+| Full idea bank and earlier drafts | Claude doc "DID YOU KNOW?! — Things You Missed in GTA VI" |
 
 Media is not committed. `.gitignore` excludes video, audio and images.
 

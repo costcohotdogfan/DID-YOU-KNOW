@@ -2,7 +2,7 @@
 
 Backbone: John Cheever, "The Swimmer". A man swims home through his neighbors' pools and finds his life has gone.
 
-Status: cut v1 rendered 2026-11-20 from `edl.json`. Jamie has not yet given notes on sync. Not published.
+Status: published, per Jamie on 2026-11-22. `edl.json` is cut v1 as rendered on 2026-11-20; if the published cut differs, it is not recorded here.
 
 ## Narration as recorded (Marcus, eleven_v4, 48.85 s)
 
@@ -81,7 +81,7 @@ Every prompt ended: `--ar 9:16 --v 7 --oref https://cdn.midjourney.com/c0c2e0b8-
 
 `v2/beat6b_emptyroom.png` is a still (the empty room through the window), given a slow drift in the edit.
 
-## What to fix in v2
+## Known flaws in cut v1
 
 - Sync on the "swim one, have a drink" montage is a guess.
 - Two old-man shots have water in a pool that should be empty (`oldpullback`, and `orbitB1` partly).

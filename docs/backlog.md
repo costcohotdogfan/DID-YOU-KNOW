@@ -1,20 +1,23 @@
 # Backlog
 
-One line each. Full scripts for the ones marked "scripted" are in the Claude doc "DID YOU KNOW?! — Things You Missed in GTA VI"; export it as Markdown to `docs/ideas-full.md`.
+One line each. Scripts in the house voice are in `docs/scripts.md`.
 
 Jamie's steer: books popular enough that people read them, usually in school, with a sense of ennui to play for comedy.
 
-## In production
+## Published
 
 - **The Pool Route** (The Swimmer). Episode 01.
+
+## In production
+
 - **The Weekend in the City** (The Catcher in the Rye). Episode 02.
 
-## Scripted, not started
+## Scripted in the house voice, not started
 
 - **The Escort Mission** (Of Mice and Men). Your partner has max strength and no fine motor control. The farm with rabbits was never a real objective.
-- **The Pawn Shop** (Crime and Punishment). Kill the pawnbroker: no wanted stars, the punishment system is internal. Short and deep cuts.
-- **The Whale** (Moby-Dick). Devs left the whale white on purpose. White like blank. Short and deep cuts.
-- **The Tram** (the trolley problem). A branching questline: lever, bridge, loop track, hospital, blindfold. Jamie likes this one.
+- **The Pawn Shop** (Crime and Punishment). Kill the pawnbroker: no wanted stars, the punishment system is internal.
+- **The Whale** (Moby-Dick). Devs left the whale white on purpose. White like blank.
+- **The Tram** (the trolley problem). Lever, then the bridge. The game never tells you if you were good. Jamie likes this one.
 - **The Family Business** (The Godfather). Any time an orange is on screen, somebody is about to die. Florida players are having a rough time.
 - **The Caretaker Job** (The Shining). The manager's office has a window with no outside. Devs say it's intended.
 - **The Makeover** (Vertigo). A full character customizer for someone else.
