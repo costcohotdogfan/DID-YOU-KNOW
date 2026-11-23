@@ -7,7 +7,7 @@ House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited ex
 ## State (2026-11-22)
 
 - **Episode 01, The Pool Route:** published, per Jamie on 2026-11-22. Which cut, which platforms and how it performed are not recorded here yet.
-- **Episode 02, The Weekend in the City:** script locked (phony cut), shot list written, narration generated. No stills.
+- **Episode 02, The Weekend in the City:** next up, chosen by Jamie on 2026-11-22. Script locked, narration generated (no take picked), Midjourney prompts written in `episodes/02-weekend-in-the-city/prompts.md`. No stills yet.
 - **Nine more scripts** are rewritten in the house voice and ready to produce: `docs/scripts.md`. Jamie picks the next one.
 - Everything else is a premise. See `docs/backlog.md`.
 
