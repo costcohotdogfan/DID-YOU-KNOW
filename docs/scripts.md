@@ -155,3 +155,19 @@ Pro tip: here's the thing nobody tells you! He's the only happy person on the ma
 Ending: his family finally gets him cured! He's himself again! A quiet guy in a small town! He apologizes to everyone, goes to bed, and dies in about a week! His sidekick begs him to get back in the car!
 
 Devs confirmed it: sanity's the bad ending! Like and subscribe!
+
+## The Long Fish
+
+Backbone: The Old Man and the Sea. Hangs on a real mechanic in a real place: fishing in the Leonida Keys.
+
+Did you know?! GTA VI has a fishing mission that 99% of players quit before the fish shows up!
+
+Take the smallest boat in the Leonida Keys! You're old! Your luck stat is zero! You've gone eighty-four days without a bite! You used to have a kid who fished with you, but his parents moved him to a better boat! He still brings you coffee! He's the only one who does!
+
+Day eighty-five, go out farther than anyone! You hook the biggest marlin in the game! Pro tip: there's no reel-in button! It tows you for three days! Your hands open up! You start calling it your brother! It's the best friend you've had in years, and the mission is to kill it!
+
+You win! It's longer than the boat! Now head home! Sharks eat it! All of it! You fight them with an oar! You dock at night with a skeleton, and nobody's awake!
+
+Next morning, tourists think it's a shark!
+
+Reward: nothing! You did everything right, and nobody saw! Go to sleep! Like and subscribe!

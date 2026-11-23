@@ -4,11 +4,11 @@ A shorts format. A breathless gaming-tips narrator gives real-sounding direction
 
 House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited explainer voice.** The devastating line is said plainly and chirpily, not hidden in UI jokes. The narrator never names the book and never slows down.
 
-## State (2026-11-22)
+## State (2026-11-23)
 
 - **Episode 01, The Pool Route:** published, per Jamie on 2026-11-22. Which cut, which platforms and how it performed are not recorded here yet.
 - **Episode 02, The Weekend in the City:** next up, chosen by Jamie on 2026-11-22. Script locked, narration generated (no take picked), Midjourney prompts written in `episodes/02-weekend-in-the-city/prompts.md`. No stills yet.
-- **Nine more scripts** are rewritten in the house voice and ready to produce: `docs/scripts.md`. Jamie picks the next one.
+- **Ten more scripts** are in the house voice and ready to produce: `docs/scripts.md`. Jamie's pick after episode 02 is The Long Fish (The Old Man and the Sea).
 - Everything else is a premise. See `docs/backlog.md`.
 
 ## Where things are

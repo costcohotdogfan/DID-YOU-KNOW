@@ -23,6 +23,7 @@ Jamie's steer: books popular enough that people read them, usually in school, wi
 - **The Makeover** (Vertigo). A full character customizer for someone else.
 - **The Follower** (Frankenstein). He has no name, so players call him by your gamertag.
 - **The Guy Who Played Too Much** (Don Quixote). He thinks he's in GTA. He is. That's the problem.
+- **The Long Fish** (The Old Man and the Sea). Fishing in the Keys. You do everything right and dock with a skeleton. Jamie's pick to follow episode 02.
 
 ## Premises only
 
@@ -47,4 +48,29 @@ Experiments:
 - **The basement job** (the Stanford prison experiment).
 - **The electronics store** (the obedience experiment).
 
-Others: fishing off the pier (The Old Man and the Sea), the green light (The Great Gatsby), the butler job (The Remains of the Day), the bus stop (Waiting for Godot), bike theft (Bicycle Thieves), the dinner reservation (My Dinner with Andre), the mod shop (the ship of Theseus), the hill (Sisyphus), the arrest (The Trial), the safehouse bug (The Metamorphosis), the bakery (Proust), the office job (Bartleby), the cabin (Walden), the walk (Ulysses), the salesman (Death of a Salesman), the mirror (the Jungian shadow), the road trip (On the Road).
+Others: the green light (The Great Gatsby), the butler job (The Remains of the Day), the bus stop (Waiting for Godot), bike theft (Bicycle Thieves), the dinner reservation (My Dinner with Andre), the mod shop (the ship of Theseus), the hill (Sisyphus), the arrest (The Trial), the safehouse bug (The Metamorphosis), the bakery (Proust), the office job (Bartleby), the cabin (Walden), the walk (Ulysses), the salesman (Death of a Salesman), the mirror (the Jungian shadow), the road trip (On the Road).
+
+## Ideas that hang on something real in the game
+
+Added 2026-11-23. A fake tip is more believable when the mechanic or place exists. Sourced from trailers, Rockstar's site and previews; confirm in the released game before recording.
+
+Existing ideas with a real hook:
+
+- **The green light** (The Great Gatsby). Binoculars are a real mechanic; mansions across the bay. The main story is already a Gatsby story.
+- **The dinner reservation** (My Dinner with Andre). Set it at Hank's Waffles. Jamie loves this one.
+- **The Escort Mission** (Of Mice and Men). Grassrivers; two people and a plan for a better life is the actual plot.
+- **The Glory Days** (Rabbit, Run). Basketball is a real activity.
+- **The hill** (Sisyphus). Move it to the gym: lift it, put it down.
+
+New, in the same nothing-happens vein:
+
+- **The Deep End** (The Graduate). Scuba diving is real. Sit on the bottom of your parents' pool in the suit while their friends applaud.
+- **The Window** (Rear Window). Broken-leg debuff and the binoculars. Watching the neighbors is easier than answering your girlfriend.
+- **The Pool Hall** (The Hustler). Pool is real. Win every game and still be a loser.
+- **Upriver** (Heart of Darkness). The airboat into Grassrivers to find a man everyone calls a genius.
+
+Couple on the run, from the main story:
+
+- **The Country Lane** (Bonnie and Clyde). Your wanted level is secretly a fame stat. Every road ends at the same quiet lane. "You're not going to get away! You're going to get famous!"
+- **The Late Message** (Romeo and Juliet). Rival crews, and a message that arrives ninety seconds late.
+- **The Ten-Minute Job** (Dog Day Afternoon). A simple job goes wrong. He did it for someone who never asked him to.
