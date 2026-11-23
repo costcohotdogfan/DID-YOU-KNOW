@@ -2,14 +2,20 @@
 
 Backbone: The Old Man and the Sea. Script is in `docs/scripts.md`.
 
-Status: prompts written 2026-11-23. Nothing submitted. No narration yet.
+Status: all twelve still sets generated in Midjourney on 2026-11-23. Jamie has not picked any. No motion, no narration yet.
+
+Character reference in use: job `a1b6f500-3491-4746-9688-dba4ea1616b0`, image 1 (`https://cdn.midjourney.com/a1b6f500-3491-4746-9688-dba4ea1616b0/0_1.png`).
+
+Jamie's direction: an old unlockable character you switch to, straw Cuban hat and cigar. Not the game's real lead.
+
+Known misses in the first pass: the sleeping shot came out face up; most of the night-dock set shows an empty skiff with no skeleton; he reads heavier than "thin".
 
 ## The character
 
 Fixed line, used word for word in every prompt:
 
 ```
-thin weathered old fisherman in his seventies, deep-tanned creased neck, white stubble, faded straw hat, patched white shirt with rolled sleeves, bare feet
+thin weathered old Cuban fisherman in his seventies, deep-tanned creased neck, white stubble, straw fedora, cigar in the corner of his mouth, faded white guayabera shirt with rolled sleeves, bare feet
 ```
 
 Suffix on every prompt: `--ar 9:16 --v 7 --p m7522496490742050258`
@@ -17,7 +23,7 @@ Suffix on every prompt: `--ar 9:16 --v 7 --p m7522496490742050258`
 ## Step 1: make the reference
 
 ```
-third-person open-world video game screenshot, seen from behind, thin weathered old fisherman in his seventies, deep-tanned creased neck, white stubble, faded straw hat, patched white shirt with rolled sleeves, bare feet, standing on a weathered wooden dock beside a tiny wooden skiff at dawn, Florida Keys, turquoise shallows, minimap in corner --ar 9:16 --v 7 --p m7522496490742050258
+third-person open-world video game screenshot, seen from behind, thin weathered old Cuban fisherman in his seventies, deep-tanned creased neck, white stubble, straw fedora, cigar in the corner of his mouth, faded white guayabera shirt with rolled sleeves, bare feet, standing on a weathered wooden dock beside a tiny wooden skiff at dawn, Florida Keys, turquoise shallows, minimap in corner --ar 9:16 --v 7 --p m7522496490742050258
 ```
 
 Pick the clearest full-body result. Use its image URL as `REF`; every later prompt adds `--oref REF` before `--p`.

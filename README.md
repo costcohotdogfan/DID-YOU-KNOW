@@ -9,6 +9,7 @@ House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited ex
 - **Episode 01, The Pool Route:** published, per Jamie on 2026-11-22. Which cut, which platforms and how it performed are not recorded here yet.
 - **Episode 02, The Weekend in the City:** next up, chosen by Jamie on 2026-11-22. Script locked, narration generated (no take picked), Midjourney prompts written in `episodes/02-weekend-in-the-city/prompts.md`. No stills yet.
 - **Ten more scripts** are in the house voice and ready to produce: `docs/scripts.md`. Jamie's pick after episode 02 is The Long Fish (The Old Man and the Sea).
+- **Episode 03, The Long Fish:** stills generated for all twelve shots on 2026-11-23, none picked. See `episodes/03-the-long-fish/prompts.md`.
 - Everything else is a premise. See `docs/backlog.md`.
 
 ## Where things are
