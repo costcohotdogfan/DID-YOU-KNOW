@@ -35,6 +35,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 W, H, FPS = 1080, 1920, 30
 FONT_CANDIDATES = [
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-Bold.ttf",
+    "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
     "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf",
     "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     "C:/Windows/Fonts/arialbd.ttf",
