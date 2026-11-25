@@ -12,6 +12,7 @@ House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited ex
 - **Episode 03, The Long Fish:** stills generated for all twelve shots on 2026-11-23, none picked. See `episodes/03-the-long-fish/prompts.md`.
 - Everything else is a premise. See `docs/backlog.md`.
 - **Machines:** BIG (Omarchy laptop, `omarchy`) is set up at `~/Work/DID-YOU-KNOW` with media root `~/did-you-know-media/`; episode 01's footage is still only on BEAST.
+- **HUD (`tools/build_cut.py`):** upgraded on 2026-11-24 to a frosted-glass 3D-perspective minimap, docked Health/ENNUI vitals capsule, and floating mission card inside TikTok/Shorts safe zones.
 
 ## Where things are
 
