@@ -1,0 +1,24 @@
+{
+  "title": "THE LONG FISH",
+  "card": "HIDDEN MISSION",
+  "narration": "audio/narration.mp3",
+  "ennui_full_at": 45.44,
+  "segments": [
+    {"at": 0.00,  "clip": "clips/s01_0.mp4",  "ss": 0.0},
+    {"at": 2.18,  "clip": "clips/s02_0.mp4",  "ss": 0.0},
+    {"at": 6.22,  "clip": "clips/s01_0.mp4",  "ss": 2.2},
+    {"at": 8.60,  "clip": "clips/s02_0.mp4",  "ss": 0.3},
+    {"at": 13.28, "clip": "clips/s03_1.mp4",  "ss": 0.0},
+    {"at": 18.25, "clip": "clips/s02_0.mp4",  "ss": 3.4},
+    {"at": 19.95, "clip": "clips/s04_2.mp4",  "ss": 1.5},
+    {"at": 22.41, "clip": "clips/s05_2.mp4",  "ss": 0.0},
+    {"at": 26.47, "clip": "clips/s06_0.mp4",  "ss": 0.0},
+    {"at": 29.47, "clip": "clips/s07_2.mp4",  "ss": 0.0},
+    {"at": 34.53, "clip": "clips/s08_2.mp4",  "ss": 0.0},
+    {"at": 36.68, "clip": "clips/s08_3.mp4",  "ss": 0.0},
+    {"at": 37.57, "clip": "clips/s09_0.mp4",  "ss": 0.0},
+    {"at": 40.60, "clip": "clips/s10_1.mp4",  "ss": 0.0},
+    {"at": 43.34, "clip": "clips/s11b_1.mp4", "ss": 0.5},
+    {"at": 46.79, "clip": "clips/s12_3.mp4",  "ss": 0.0}
+  ]
+}

@@ -2,7 +2,7 @@
 
 Backbone: The Old Man and the Sea. Script is in `docs/scripts.md`.
 
-Status: all twelve still sets generated in Midjourney on 2026-11-23. Jamie has not picked any. No motion, no narration yet.
+Status: all twelve still sets picked, Midjourney motion clips generated and picked, two ElevenLabs narration takes generated, and `edl.json` / cut v1 rendered and technically verified on 2026-11-24 (see `episode.md`). Awaiting Jamie's watch/listen.
 
 Character reference in use: job `a1b6f500-3491-4746-9688-dba4ea1616b0`, image 1 (`https://cdn.midjourney.com/a1b6f500-3491-4746-9688-dba4ea1616b0/0_1.png`).
 
