@@ -9,7 +9,8 @@ House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited ex
 - **Episode 01, The Pool Route:** published, per Jamie on 2026-11-22. Which cut, which platforms and how it performed are not recorded here yet.
 - **Episode 02, The Weekend in the City:** next up, chosen by Jamie on 2026-11-22. Script locked, narration generated (no take picked), Midjourney prompts written in `episodes/02-weekend-in-the-city/prompts.md`. No stills yet.
 - **Ten more scripts** are in the house voice and ready to produce: `docs/scripts.md`. Jamie's pick after episode 02 is The Long Fish (The Old Man and the Sea).
-- **Episode 03, The Long Fish:** stills generated for all twelve shots on 2026-11-23, none picked. See `episodes/03-the-long-fish/prompts.md`.
+- **Episode 03, The Long Fish:** final literary-ennui episode before moving to the bureaucracy lane; stills generated for all twelve shots on 2026-11-23, ready for picks (`episodes/03-the-long-fish/prompts.md`).
+- **Tone shift / Bureaucracy lane (chosen 2026-11-23):** moving from literary ennui to hyper-specific GTA bureaucracy/paperwork comedy (goal: followers for Secret Third Thing). Six scripts locked in `docs/bureaucracy-scripts.md` (*The DMV*, *The Audit*, *Jury Duty*, *The HOA*, *The Day Job*, *The Claim*) plus six more premises and a pipeline automation brief.
 - Everything else is a premise. See `docs/backlog.md`.
 - **Machines:** BIG (Omarchy laptop, `omarchy`) is set up at `~/Work/DID-YOU-KNOW` with media root `~/did-you-know-media/`; episode 01's footage is still only on BEAST.
 - **HUD (`tools/build_cut.py`):** upgraded on 2026-11-24 to a frosted-glass 3D-perspective minimap, docked Health/ENNUI vitals capsule, and floating mission card inside TikTok/Shorts safe zones.
@@ -23,6 +24,7 @@ House voice, settled with Jamie on 2026-11-19: **literary ennui in an excited ex
 | Narrator voice | ElevenLabs "Marcus", voice id `y0s2ExEMuum3muUnA6Zd`, model `eleven_v4` |
 | ElevenLabs flow with all takes | flow id `9eDcpVFUonoeSINbsbkk` |
 | Current scripts | `docs/scripts.md` |
+| Bureaucracy scripts (new lane) | `docs/bureaucracy-scripts.md` |
 | Full idea bank and earlier drafts | Claude doc "DID YOU KNOW?! — Things You Missed in GTA VI" |
 
 Media is not committed. `.gitignore` excludes video, audio and images.
